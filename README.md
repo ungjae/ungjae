@@ -1,10 +1,7 @@
 <h1> John UngJae Yun </h1>
 
 
-<h2> Software Engineer | Master's Degree in Computer Science </h2>
-<h3> Java • C++ • Python • Android Studio • Git • JUnit • Heroku • MySQL • Spring Boot • Maven </h3>
-
-<i>Currently:</i> Interning at Motive Auto within the API development team.
+<h2> Software Engineer </h2>
 
 
 <h2>📫 How to reach me:</h2>
