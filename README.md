@@ -1,10 +1,8 @@
-<h1> John UngJae Yun </h1>
+### About Me
+My name is **John UngJae Yun**, a software engineer from New York. 
 
-
-<h2> Software Engineer </h2>
-
-
-<h2>📫 How to reach me:</h2>
+I previously worked for [Broadlume](https://www.broadlume.com/) where
+I was part of the Data & Integrations team, responsible for developing and maintaining integrations across all internal and external services, guaranteeing seamless data synchronization throughout.
 
 <a href="mailto:john.ungjae.yun@gmail.com">![john.ungjae.yun@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ungjae/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
